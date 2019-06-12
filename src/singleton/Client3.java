@@ -24,7 +24,7 @@ public class Client3 {
 					
 					for(int i=0;i<1000000;i++){
 //						Object o = SingletonDemo4.getInstance();
-						Object o = SingletonDemo4.getInstance();
+//						Object o = SingletonDemo4.getInstance();
 					}
 					
 					countDownLatch.countDown();
